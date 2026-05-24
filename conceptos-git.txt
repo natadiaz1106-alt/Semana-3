@@ -1,0 +1,5 @@
+- REPOSITORIO: es donde secrea un archivo para trabajar desde la terminal git
+
+- COMMIT: es una imagen o foto que se leyoma a un trabajo hecho por la taerminal
+
+-PUSH : es donde uno guarda los cambios que ya hace en el git para poder hacer una caroeta
